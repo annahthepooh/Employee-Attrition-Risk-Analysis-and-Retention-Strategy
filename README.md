@@ -25,4 +25,4 @@ This project analyzes employee HR data to understand the factors contibuting to 
 ### Final Recommendations
 1. **Compensation Review Strategy**: Conduct a compensation review for lower paid employee groups and consider targeted salary adjustments to address the identified **$1,400 compensation gap** improving competitiveness and reducing turnover risk among vulnerable employee segments.
 2.	**Overtime Management Initiative**: Perform a workload and overtime audit with the **Research & Development** and **Sales** departments to identify staffing pressures and implement measures that reduce employee burnout and attrition risk.
-3.	**Employee Engagement and Work Environment Program**: Establish structured employee feedback channels such as anonymous suggestion boxes and periodic engagement surveys to identify workplace concerns and guide improvements to the employee experience.
+3.	**Employee Engagement and Work Environment Program**: Establish **structured employee feedback channels** such as anonymous **suggestion boxes** and **periodic engagement surveys** to identify workplace concerns and guide improvements to the employee experience.
