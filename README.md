@@ -6,6 +6,33 @@ An organization is experiencing increasing employee attrition which is impacting
 ## Executive Summary
 This project analyzes employee HR data to understand the factors contibuting to attrition for a workforce of 1,470 employees. The study focuses on salary, workload and environment which reveals that attrition is unevenly distributed across the workforce. Employees with low salary bands, frequent overtime and low job satisfaction show significantly high attrition rates.
 
+  ## 🛠 Tools & Skills Demonstrated
+
+<details>
+<summary><b>Click here to expand the section</b></summary>
+  
+### Excel
+- Data Cleaning and validation
+- Data Transformation
+- Pivot Tables
+
+### Power BI
+- Interactive Dashboard Development
+- KPI Tracking
+
+### HR Analytics
+- Employee Attrition Analysis
+- Workforce Segmentation
+- Employee Demographics Analysis
+- Departmental Performance Analysis
+
+### Business Skills
+- Root Cause Analysis
+- Retention Strategy Development
+- Business Recommendations
+- Data Storytelling
+</details>
+
 ## The Workflow (The Documentation)
 ### 1. Data Cleaning & Preparation (Excel)
 
